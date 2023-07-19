@@ -1,4 +1,4 @@
-### Oioi 👋
+### Oioi 
 
  Acesse meu [Portifólio](#) para me conhecer mais!
 
