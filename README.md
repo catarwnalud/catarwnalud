@@ -1,6 +1,6 @@
 ### Oioi 
 
- Acesse meu [Portifólio](https://catarwnalud.github.io/) para me conhecer mais!
+ Acesse meu [Portifólio](https://catarwnalud.github.io/) para me conhecer e contatar!
 
 Um dos meus projetos:
 
