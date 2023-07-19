@@ -19,3 +19,5 @@ Um dos meus projetos:
   clique em "Carregar aplicativo no MIT App Inventor" (faça o login no site com seu email). Na parte superior da página clique
   em "Compilar", selecione "Android App (.apk)" e aguarde. Após carregar, escaneie o QRcode que aparece na tela usando o aplicativo
   do Mit App Inventor e dê as permissões para instalar. Procure o download no seu celular e clique para instalar. Pronto! o aplicativo será instalado, é seguro!
+
+Dê uma olhada no
