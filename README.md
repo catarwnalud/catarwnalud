@@ -2,7 +2,7 @@
 
  Acesse meu [Portifólio](https://catarwnalud.github.io/) para me conhecer e contatar!
 
-Um dos meus projetos:
+* Um dos meus projetos:
 
 - *Elas Programam*
 
@@ -20,4 +20,4 @@ Um dos meus projetos:
   em "Compilar", selecione "Android App (.apk)" e aguarde. Após carregar, escaneie o QRcode que aparece na tela usando o aplicativo
   do Mit App Inventor e dê as permissões para instalar. Procure o download no seu celular e clique para instalar. Pronto! o aplicativo será instalado, é seguro!
 
-👀 Dê uma olhada em alguns repositórios:
+!! Dê uma olhada em alguns repositórios:
