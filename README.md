@@ -2,7 +2,7 @@
 
  Acesse meu [Portifólio](https://catarwnalud.github.io/) para me conhecer e contatar!
 
-*Um dos meus projetos:*
+*Um dos meus projetos👨‍🦲
 
 - *Elas Programam*
 
