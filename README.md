@@ -1,8 +1,8 @@
-### Oioi👋
+### Oioi
 
-🌐 Acesse meu [Portifólio](#) para me conhecer mais!
+ Acesse meu [Portifólio](#) para me conhecer mais!
 
-❗Um dos meus projetos:
+Um dos meus projetos:
 
 - *Elas Programam*
 
@@ -11,7 +11,7 @@
   do Google. O aplicativo "Solidarize" serve como busca por ongs que precisam de doações, possui mapa,
   busca, filtros e cadastro.
 
-  🔗 Acesso:
+  Acesso:
 
   Instale no seu celular android o aplicativo do [Mit App Inventor](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3).
   
