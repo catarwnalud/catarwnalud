@@ -22,3 +22,4 @@
   do Mit App Inventor e dê as permissões para instalar. Procure o download no seu celular e clique para instalar. Pronto! o aplicativo será instalado, é seguro!
 
 ### Dê uma olhada em alguns repositórios:
+
